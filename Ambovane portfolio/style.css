@@ -1,0 +1,29 @@
+body{
+   background-image: url(photo-1550895030-823330fc2551.jpg);  
+}
+header{
+    text-align:center;
+    margin:5px;
+    padding: 5px;
+}
+nav
+.navbar{
+    text-align: end;
+    padding: 0%;
+    margin: 0%;
+}
+    
+a{
+    text-decoration: none;
+}
+h2{
+   text-align:center;
+}
+form{
+    text-align: center;
+}
+p{
+    font-style: italic;
+    font-size: x-large;
+    margin:0%;
+}
